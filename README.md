@@ -48,6 +48,8 @@
 
 ---
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/eemont.git/HEAD)
+
 **GitHub**: [https://github.com/davemlz/eemont](https://github.com/davemlz/eemont)
 
 **Documentation**: [https://eemont.readthedocs.io/](https://eemont.readthedocs.io/)
