@@ -7,3 +7,4 @@ pandas
 python-box
 requests
 geemap
+ipyleaflet
